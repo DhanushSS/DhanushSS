@@ -2,3 +2,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Dev;Open+Source+Nerd;Building+cool+stuff)](https://git.io/typing-svg)
 ![Stats](https://github-readme-stats.vercel.app/api?username=DhanushSS&theme=radical&show_icons=true&hide_border=true)
 ![Streak](https://streak-stats.demolab.com?user=DhanushSS&theme=radical&hide_border=true)
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
