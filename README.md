@@ -1,26 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DhanushSS&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20cool%20stuff%20%F0%9F%9A%80&descAlignY=55&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DhanushSS&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=The%20mystery%20of%20human%20existence%20lies%20not%20in%20just%20staying%20alive...%20but%20in%20finding%20something%20to%20live%20for.&descAlignY=60&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Dev;UDP+%2F+Network+Nerd;Open+Source+Builder;Building+cool+stuff)](https://git.io/typing-svg)
 
 </div>
 
----
-
-<div align="center">
-
-## 🧠 About Me
-
-🔭 Working on **UDP Telemetry & Packet Aggregation**  
-🌱 Exploring **Systems Programming & Networking**  
-⚡ I build things that move packets at high speed
-
-</div>
-
----
-
-<div align="center">
 
 ## 🛠️ Tech Stack
 
