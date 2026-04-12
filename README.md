@@ -37,21 +37,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=DhanushSS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushSS&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushSS&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/DhanushSS/DhanushSS/output/github-contribution-grid-snake-dark.svg" />
