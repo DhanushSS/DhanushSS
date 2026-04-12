@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DhanushSS&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=The%20mystery%20of%20human%20existence%20lies%20not%20in%20just%20staying%20alive,%20but%20in%20finding%20something%20to%20live%20for.&descAlignY=55&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=The%20mystery%20of%20human%20existence%20lies%20not%20in%20just%20staying%20alive,%20but%20in%20finding%20something%20to%20live%20for.&descAlignY=50&descSize=22)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Dev;UDP+%2F+Network+Nerd;Open+Source+Builder;Building+cool+stuff)](https://git.io/typing-svg)
 
